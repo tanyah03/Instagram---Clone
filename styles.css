@@ -1,0 +1,304 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.s1 {
+    border: solid gray 1px;
+}
+
+.s2 {
+    /* background-color: blue; */
+}
+
+.s3 {
+    /* background-color: fuchsia; */
+}
+
+@media (max-width: 1264px) {
+    .textocajas {display: none}}
+
+@media (min-width:1263px) and (max-width: 1325px) {
+    .logo {display: none}}
+
+@media (min-width:1264px) and (max-width: 1325px) {
+    .logo2 {display: none}}
+
+.ocultars1 {
+    border-right: solid grey 1px;
+}
+
+.textocajas{
+    font-size: 16px;
+}
+
+.logo {
+    width: 110px; height: 38px; margin-top: 38px; cursor: pointer;
+}
+
+
+.iconos{
+    width: 26px; height: 26px;
+}
+
+
+.iconos2{
+    width: 26px; height: 26px; border-radius: 100%;
+}
+
+.caja1 {
+    height: 120px;
+    background-color: white;
+}
+
+.caja2 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja3 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja4 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja5 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja6 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja7 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja8 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja9 {
+    height: 55px;
+    background-color: white; cursor: pointer;
+}
+
+.caja10 {
+    height: 130px;
+    background-color: white; cursor: pointer;
+}
+
+/* .caja11 {
+    height: 160px;
+    background-color: darkolivegreen;
+} */
+
+.historias ul{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.circulo {
+    border-radius: 100%;
+    width: 60px; height: 60px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.historias ul li img{
+    padding: 4px;
+}
+.contenido .circulo {
+    background: linear-gradient(45deg, gold, fuchsia);
+    padding: 2px; border-radius: 100%; background-color: white;
+}
+
+
+.historias p {
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.caja12 {
+    height: 100px;
+    background-color: white;
+}
+
+.caja26 {
+    height: 50px; background-color: white;
+}
+
+.caja27 {
+    height: 460px;
+    background-color: white;
+}
+
+.caja13 {
+    height: 550px;
+    background-color: white;
+}
+
+.caja25 {
+    height: 320px;
+    background-color: white;
+}
+
+.circulito {
+    border-radius: 100%; width: 40px; height: 40px;
+}
+
+.p1 {
+    margin-top: 20px;
+}
+.caja14 {
+    height:40px;
+    background-color: white;
+}
+
+
+.iconos3 {
+    padding-top: 10px;
+}
+
+.caja15 {
+    height: 200px;
+    background-color: white;
+}
+
+.caja15 .reaccion{
+    font-size: 15px;
+}
+.caja15 .reaccion2 {
+    font-size: 15px;
+}
+.caja15 .comentario {
+    font-size: 15px; color: grey;
+}
+.caja15 .comentario2 {
+    font-size: 15px; color: grey;
+}
+
+.caja16 {
+    height: 120px;
+    background-color: white;
+}
+
+.miperfil {
+    border-radius: 100%;
+    margin-top: 35px;
+}
+
+.miperfilt {
+    margin-top: 36px;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+.miperfil2 {
+    margin-top: -20px;
+    margin-left: 10px;
+    color: grey;
+    font-size: 13px;
+}
+
+.cambiar {
+    color: #00b4d8;
+    margin-top: 45px;
+    font-size: 13px;
+}
+
+.caja17 {
+    height: 42px;
+    background-color: white;
+}
+
+.sug {
+    color: grey;
+}
+
+.sug2 {
+    font-size: 13px;
+}
+
+.caja18 {
+    height: 70px;
+    background-color: white;
+}
+
+.suge1 {
+    border-radius: 100%;
+}
+
+.suge1n {
+
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+
+.suge1s {
+    margin-top: -20px;
+    margin-left: 10px;
+    color: grey;
+    font-size: 13px;
+}
+
+.seguir {
+    color: #00b4d8;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.caja19 {
+    height: 70px;
+    background-color: white;
+}
+
+.caja20 {
+    height: 70px;
+    background-color: white;
+}
+
+.caja21 {
+    height: 70px;
+    background-color: white;
+}
+
+.caja22 {
+    height: 90px;
+    background-color: white;
+}
+
+.caja23 {
+    height: 80px;
+    background-color: white;
+}
+
+.info {
+    font-size: 13px;
+    color: grey;
+}
+
+.caja24 {
+    background-color: white;
+}
